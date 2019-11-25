@@ -43,3 +43,9 @@ German Credit Scoring, this API call returning prediction if an individual going
 	* Code: 200
 		* Content:
 			* Default: prediction result -> 1: default, 0: not default
+
+			```python
+				{
+				    "result": "0"
+				}
+			```
